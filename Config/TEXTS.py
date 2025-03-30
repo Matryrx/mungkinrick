@@ -630,10 +630,10 @@ none : سلام
 `block`
 `unblock`
 `mydel` پاکسازی تمامی پیام های خود
-🪩 DEV : https://www.github.com/amiralirj 
-🪩 DEV : @amiralirj_official 
+🪩 DEV : https://t.me/itsmeaeron 
+🪩 DEV : @itsmeaeron
 '''
 
 
-# @amiralirj_official  - https://www.github.com/amiralirj
-# 2022 .
+# @fvckl0vea x @urrhellgod
+# 2025
