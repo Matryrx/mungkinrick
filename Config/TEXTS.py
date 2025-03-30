@@ -1,7 +1,3 @@
-#-----------------+-----------------|\
-# https://www.github.com/amiralirj  |-|\     
-# https://t.me/amiralirj_official   |-|/    
-#-----------------+-----------------|/
 class Text :
     def __init__(self,lang) -> None:
         self.error='there is somthing wrong !'
